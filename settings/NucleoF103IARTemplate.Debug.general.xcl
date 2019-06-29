@@ -1,0 +1,15 @@
+"D:\Softwares\IAR\arm\bin\armproc.dll" 
+
+"D:\Softwares\IAR\arm\bin\armstlink2.dll" 
+
+"D:\Code\IAR_NUCLEOF103_Template\Debug\Exe\NucleoF103IARTemplate.out" 
+
+--plugin="D:\Softwares\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\Softwares\IAR\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+--flash_loader="D:\Softwares\IAR\arm\config\flashloader\ST\FlashSTM32F10xxB.board" 
+
+
+
+
