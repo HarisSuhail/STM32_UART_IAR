@@ -1,9 +1,9 @@
-"D:\Code\IAR_NUCLEOF103_Template\main.c"
+"D:\Code\RemoteNew\main.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -I
-D:\Code\IAR_NUCLEOF103_Template
+D:\Code\RemoteNew
 -I
 D:\Code\IAR_NUCLEOF103_Template\StandardLibrary\inc
 -I

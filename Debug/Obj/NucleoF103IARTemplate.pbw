@@ -100617,7 +100617,7 @@
     "location": {
       "column": "6",
       "line": "7",
-      "path": "D:\\Code\\IAR_NUCLEOF103_Template\\main.c"
+      "path": "D:\\Code\\RemoteNew\\main.c"
     },
     "name": "delay",
     "origin": "project_file",
@@ -100631,7 +100631,7 @@
     "location": {
       "column": "20",
       "line": "9",
-      "path": "D:\\Code\\IAR_NUCLEOF103_Template\\main.c"
+      "path": "D:\\Code\\RemoteNew\\main.c"
     },
     "name": "loopIndex",
     "origin": "project_file",
@@ -100645,7 +100645,7 @@
     "location": {
       "column": "22",
       "line": "11",
-      "path": "D:\\Code\\IAR_NUCLEOF103_Template\\main.c"
+      "path": "D:\\Code\\RemoteNew\\main.c"
     },
     "name": "loopIndex2",
     "origin": "project_file",
@@ -100659,7 +100659,7 @@
     "location": {
       "column": "5",
       "line": "18",
-      "path": "D:\\Code\\IAR_NUCLEOF103_Template\\main.c"
+      "path": "D:\\Code\\RemoteNew\\main.c"
     },
     "name": "main",
     "origin": "project_file",
@@ -100673,35 +100673,35 @@
     "location": {
       "column": "20",
       "line": "23",
-      "path": "D:\\Code\\IAR_NUCLEOF103_Template\\main.c"
+      "path": "D:\\Code\\RemoteNew\\main.c"
     },
     "name": "LD2PinGpioTypeDef",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:main.c@1088@F@main@usartConfig",
+    "ID": "c:main.c@1083@F@main@usartConfig",
     "What": "Variable",
     "defdec": "Def",
     "display": "usartConfig",
     "location": {
       "column": "21",
-      "line": "44",
-      "path": "D:\\Code\\IAR_NUCLEOF103_Template\\main.c"
+      "line": "43",
+      "path": "D:\\Code\\RemoteNew\\main.c"
     },
     "name": "usartConfig",
     "origin": "project_file",
     "scope": null
   },
   {
-    "ID": "c:main.c@1535@F@main@counter",
+    "ID": "c:main.c@1529@F@main@counter",
     "What": "Variable",
     "defdec": "Def",
     "display": "counter",
     "location": {
       "column": "16",
-      "line": "57",
-      "path": "D:\\Code\\IAR_NUCLEOF103_Template\\main.c"
+      "line": "56",
+      "path": "D:\\Code\\RemoteNew\\main.c"
     },
     "name": "counter",
     "origin": "project_file",

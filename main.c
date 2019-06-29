@@ -40,7 +40,6 @@ int main()
   //Enable the clock to USART 2
   RCC_APB1PeriphClockCmd(RCC_APB1Periph_USART2, ENABLE);
   //Set up USART configurations.
-  {
   USART_InitTypeDef usartConfig;
   usartConfig.USART_BaudRate = 115200u;
   usartConfig.USART_HardwareFlowControl = USART_HardwareFlowControl_None;
@@ -51,7 +50,7 @@ int main()
   
   USART_Init(USART2, &usartConfig);
   USART_Cmd(USART2, ENABLE);
-  }
+  
   
   
   unsigned int counter = 0;

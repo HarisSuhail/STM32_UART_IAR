@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "D:\Softwares\IAR\common\bin\cspybat" -f "D:\Code\IAR_NUCLEOF103_Template\settings\NucleoF103IARTemplate.Debug.general.xcl" --backend -f "D:\Code\IAR_NUCLEOF103_Template\settings\NucleoF103IARTemplate.Debug.driver.xcl" 
+& "D:\Softwares\IAR\common\bin\cspybat" -f "D:\Code\RemoteNew\settings\NucleoF103IARTemplate.Debug.general.xcl" --backend -f "D:\Code\RemoteNew\settings\NucleoF103IARTemplate.Debug.driver.xcl" 
 }
 else
 {
-& "D:\Softwares\IAR\common\bin\cspybat" -f "D:\Code\IAR_NUCLEOF103_Template\settings\NucleoF103IARTemplate.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\Code\IAR_NUCLEOF103_Template\settings\NucleoF103IARTemplate.Debug.driver.xcl" 
+& "D:\Softwares\IAR\common\bin\cspybat" -f "D:\Code\RemoteNew\settings\NucleoF103IARTemplate.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\Code\RemoteNew\settings\NucleoF103IARTemplate.Debug.driver.xcl" 
 }

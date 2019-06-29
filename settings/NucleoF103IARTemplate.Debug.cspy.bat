@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"D:\Softwares\IAR\common\bin\cspybat" -f "D:\Code\IAR_NUCLEOF103_Template\settings\NucleoF103IARTemplate.Debug.general.xcl" --backend -f "D:\Code\IAR_NUCLEOF103_Template\settings\NucleoF103IARTemplate.Debug.driver.xcl" 
+"D:\Softwares\IAR\common\bin\cspybat" -f "D:\Code\RemoteNew\settings\NucleoF103IARTemplate.Debug.general.xcl" --backend -f "D:\Code\RemoteNew\settings\NucleoF103IARTemplate.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"D:\Softwares\IAR\common\bin\cspybat" -f "D:\Code\IAR_NUCLEOF103_Template\settings\NucleoF103IARTemplate.Debug.general.xcl" "--debug_file=%~1" --backend -f "D:\Code\IAR_NUCLEOF103_Template\settings\NucleoF103IARTemplate.Debug.driver.xcl" 
+"D:\Softwares\IAR\common\bin\cspybat" -f "D:\Code\RemoteNew\settings\NucleoF103IARTemplate.Debug.general.xcl" "--debug_file=%~1" --backend -f "D:\Code\RemoteNew\settings\NucleoF103IARTemplate.Debug.driver.xcl" 
 
 @echo off 
 :end
